@@ -7,4 +7,6 @@ const newHeader = null;
 
 document.createElement('newHeader')
 
+var newHeader = document.createElement('victory')
+
 
