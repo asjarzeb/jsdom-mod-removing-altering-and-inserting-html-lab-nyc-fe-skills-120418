@@ -5,8 +5,6 @@ document.body.remove(main)
 /* Create your new element here and assign it to newHeader */
 const newHeader = victory;
 
-document.createElement('newHeader')
-
-var newHeader = document.createElement('victory')
+var element = document.createElement('victory');
 
 
