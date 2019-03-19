@@ -8,4 +8,4 @@ const newHeader = 'h1#victory';
 var element = document.createElement('victory');
 
 
-document.body.createElement(h1)
+document.body.createElement('h1#victory'
