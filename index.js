@@ -3,7 +3,7 @@
 document.body.remove(main)
 
 /* Create your new element here and assign it to newHeader */
-const newHeader = null;
+const newHeader = victory;
 
 document.createElement('newHeader')
 
